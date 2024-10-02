@@ -1,0 +1,703 @@
+region,category,parameter,mode,powertrain,year,unit,value
+India,Historical,EV sales,Cars,BEV,2010,Vehicles,450
+India,Historical,EV stock,Cars,BEV,2010,Vehicles,880
+India,Historical,EV sales share,Cars,EV,2010,percent,0.020999999716878
+India,Historical,EV stock share,Cars,EV,2010,percent,0.004999999888241
+India,Historical,Oil displacement Mbd,Cars,EV,2010,Milion barrels per day,2.2000000171829E-05
+India,Historical,"Oil displacement, million lge",Cars,EV,2010,"Oil displacement, million lge",1.29999995231628
+India,Historical,Oil displacement Mbd,Cars,EV,2011,Milion barrels per day,4.50000006821938E-05
+India,Historical,"Oil displacement, million lge",Cars,EV,2011,"Oil displacement, million lge",2.59999990463257
+India,Historical,EV stock share,Cars,EV,2011,percent,0.006699999794364
+India,Historical,EV sales share,Cars,EV,2011,percent,0.056000001728535
+India,Historical,EV stock,Cars,BEV,2011,Vehicles,1300
+India,Historical,EV sales,Cars,BEV,2011,Vehicles,1400
+India,Historical,EV sales,Cars,BEV,2012,Vehicles,190
+India,Historical,EV stock,Cars,BEV,2012,Vehicles,2800
+India,Historical,EV sales share,Cars,EV,2012,percent,0.00719999987632
+India,Historical,EV stock share,Cars,EV,2012,percent,0.012000000104308
+India,Historical,Oil displacement Mbd,Cars,EV,2012,Milion barrels per day,4.50000006821938E-05
+India,Historical,"Oil displacement, million lge",Cars,EV,2012,"Oil displacement, million lge",2.59999990463257
+India,Historical,Oil displacement Mbd,Cars,EV,2013,Milion barrels per day,4.99999987368938E-05
+India,Historical,"Oil displacement, million lge",Cars,EV,2013,"Oil displacement, million lge",2.90000009536743
+India,Historical,EV stock share,Cars,EV,2013,percent,0.012000000104308
+India,Historical,EV sales share,Cars,EV,2013,percent,0.016000000759959
+India,Historical,EV stock,Cars,BEV,2013,Vehicles,2900
+India,Historical,EV sales,Cars,BEV,2013,Vehicles,410
+India,Historical,EV sales,Cars,BEV,2014,Vehicles,1000
+India,Historical,EV stock,Cars,BEV,2014,Vehicles,3400
+India,Historical,EV sales share,Cars,EV,2014,percent,0.037999998778105
+India,Historical,EV stock share,Cars,EV,2014,percent,0.013000000268221
+India,Historical,Oil displacement Mbd,Cars,EV,2014,Milion barrels per day,6.50000001769513E-05
+India,Historical,"Oil displacement, million lge",Cars,EV,2014,"Oil displacement, million lge",3.70000004768372
+India,Historical,Oil displacement Mbd,Buses,EV,2015,Milion barrels per day,2.2000000171829E-05
+India,Historical,Oil displacement Mbd,Cars,EV,2015,Milion barrels per day,7.40000032237731E-05
+India,Historical,"Oil displacement, million lge",Buses,EV,2015,"Oil displacement, million lge",1.29999995231628
+India,Historical,"Oil displacement, million lge",Cars,EV,2015,"Oil displacement, million lge",4.19999980926514
+India,Historical,EV stock share,Cars,EV,2015,percent,0.014999999664724
+India,Historical,EV sales share,Cars,EV,2015,percent,0.017000000923872
+India,Historical,EV stock,Cars,BEV,2015,Vehicles,4400
+India,Historical,EV sales,Cars,BEV,2015,Vehicles,450
+India,Historical,EV stock,Buses,BEV,2015,Vehicles,100
+India,Historical,EV sales,Buses,BEV,2015,Vehicles,100
+India,Historical,EV sales share,Buses,EV,2015,percent,0.109999999403954
+India,Historical,EV stock share,Buses,EV,2015,percent,0.005400000140071
+India,Historical,EV stock share,Buses,EV,2016,percent,0.005200000014156
+India,Historical,EV sales share,Buses,EV,2016,percent,0.027000000700355
+India,Historical,EV sales share,Vans,EV,2016,percent,0.056000001728535
+India,Historical,EV stock share,Vans,EV,2016,percent,0.003199999919161
+India,Historical,EV sales,Buses,BEV,2016,Vehicles,25
+India,Historical,EV stock,Buses,BEV,2016,Vehicles,100
+India,Historical,EV sales,Cars,BEV,2016,Vehicles,730
+India,Historical,EV stock,Cars,BEV,2016,Vehicles,4800
+India,Historical,EV sales share,Cars,EV,2016,percent,0.026000000536442
+India,Historical,EV stock share,Cars,EV,2016,percent,0.014999999664724
+India,Historical,EV sales,Vans,BEV,2016,Vehicles,180
+India,Historical,EV stock,Vans,BEV,2016,Vehicles,180
+India,Historical,Oil displacement Mbd,Buses,EV,2016,Milion barrels per day,2.40000008489005E-05
+India,Historical,Oil displacement Mbd,Vans,EV,2016,Milion barrels per day,8.89999955688836E-06
+India,Historical,Oil displacement Mbd,Cars,EV,2016,Milion barrels per day,8.3999999333173E-05
+India,Historical,"Oil displacement, million lge",Buses,EV,2016,"Oil displacement, million lge",1.39999997615814
+India,Historical,"Oil displacement, million lge",Vans,EV,2016,"Oil displacement, million lge",0.509999990463257
+India,Historical,"Oil displacement, million lge",Cars,EV,2016,"Oil displacement, million lge",4.80000019073486
+India,Historical,EV charging points,EV,Publicly available fast,2016,charging points,25
+India,Historical,EV charging points,EV,Publicly available fast,2017,charging points,25
+India,Historical,EV charging points,EV,Publicly available slow,2017,charging points,220
+India,Historical,Oil displacement Mbd,Buses,EV,2017,Milion barrels per day,2.59999997069826E-05
+India,Historical,Oil displacement Mbd,Vans,EV,2017,Milion barrels per day,7.10000022081658E-05
+India,Historical,Oil displacement Mbd,Cars,EV,2017,Milion barrels per day,9.99999974737875E-05
+India,Historical,"Oil displacement, million lge",Buses,EV,2017,"Oil displacement, million lge",1.5
+India,Historical,"Oil displacement, million lge",Vans,EV,2017,"Oil displacement, million lge",4.09999990463257
+India,Historical,"Oil displacement, million lge",Cars,EV,2017,"Oil displacement, million lge",5.80000019073486
+India,Historical,EV stock,Vans,BEV,2017,Vehicles,1400
+India,Historical,EV sales,Vans,BEV,2017,Vehicles,1200
+India,Historical,EV stock share,Cars,EV,2017,percent,0.020999999716878
+India,Historical,EV sales share,Cars,EV,2017,percent,0.030999999493361
+India,Historical,EV stock,Cars,BEV,2017,Vehicles,7000
+India,Historical,EV sales,Cars,BEV,2017,Vehicles,920
+India,Historical,EV stock,Buses,BEV,2017,Vehicles,100
+India,Historical,EV sales,Buses,BEV,2017,Vehicles,20
+India,Historical,EV stock share,Vans,EV,2017,percent,0.024000000208616
+India,Historical,EV sales share,Vans,EV,2017,percent,0.310000002384186
+India,Historical,EV sales share,Buses,EV,2017,percent,0.023000000044704
+India,Historical,EV stock share,Buses,EV,2017,percent,0.005100000184029
+India,Historical,EV stock share,Buses,EV,2018,percent,0.004999999888241
+India,Historical,EV sales share,Buses,EV,2018,percent,0.280000001192093
+India,Historical,EV sales share,Vans,EV,2018,percent,0.28999999165535
+India,Historical,EV stock share,Vans,EV,2018,percent,0.046000000089407
+India,Historical,EV sales,Buses,BEV,2018,Vehicles,210
+India,Historical,EV stock,Buses,BEV,2018,Vehicles,100
+India,Historical,EV sales,Cars,BEV,2018,Vehicles,920
+India,Historical,EV stock,Cars,BEV,2018,Vehicles,7900
+India,Historical,EV sales share,Cars,EV,2018,percent,0.029999999329448
+India,Historical,EV stock share,Cars,EV,2018,percent,0.021999999880791
+India,Historical,EV sales,Vans,BEV,2018,Vehicles,1500
+India,Historical,EV stock,Vans,BEV,2018,Vehicles,2900
+India,Historical,Oil displacement Mbd,Buses,EV,2018,Milion barrels per day,6.70000008540228E-05
+India,Historical,Oil displacement Mbd,Vans,EV,2018,Milion barrels per day,0.000140000003739
+India,Historical,Oil displacement Mbd,Cars,EV,2018,Milion barrels per day,0.000110000000859
+India,Historical,"Oil displacement, million lge",Buses,EV,2018,"Oil displacement, million lge",3.90000009536743
+India,Historical,"Oil displacement, million lge",Vans,EV,2018,"Oil displacement, million lge",7.90000009536743
+India,Historical,"Oil displacement, million lge",Cars,EV,2018,"Oil displacement, million lge",6.59999990463257
+India,Historical,EV charging points,EV,Publicly available fast,2018,charging points,25
+India,Historical,EV charging points,EV,Publicly available slow,2018,charging points,330
+India,Historical,EV charging points,EV,Publicly available fast,2019,charging points,25
+India,Historical,EV charging points,EV,Publicly available slow,2019,charging points,330
+India,Historical,Electricity demand,Cars,EV,2019,GWh,0.003899999894202
+India,Historical,Oil displacement Mbd,Buses,EV,2019,Milion barrels per day,0.000150000007125
+India,Historical,Oil displacement Mbd,Vans,EV,2019,Milion barrels per day,0.000159999995958
+India,Historical,Oil displacement Mbd,Cars,EV,2019,Milion barrels per day,0.000119999996969
+India,Historical,"Oil displacement, million lge",Buses,EV,2019,"Oil displacement, million lge",8.80000019073486
+India,Historical,"Oil displacement, million lge",Vans,EV,2019,"Oil displacement, million lge",9.10000038146973
+India,Historical,"Oil displacement, million lge",Cars,EV,2019,"Oil displacement, million lge",7
+India,Historical,EV stock,Vans,BEV,2019,Vehicles,3700
+India,Historical,EV sales,Vans,BEV,2019,Vehicles,790
+India,Historical,EV stock share,Cars,EV,2019,percent,0.021999999880791
+India,Historical,EV sales share,Cars,EV,2019,percent,0.024000000208616
+India,Historical,EV stock,Cars,BEV,2019,Vehicles,8600
+India,Historical,EV sales,Cars,BEV,2019,Vehicles,680
+India,Historical,EV sales,Cars,PHEV,2019,Vehicles,7
+India,Historical,EV stock,Cars,PHEV,2019,Vehicles,7
+India,Historical,EV stock,Buses,BEV,2019,Vehicles,550
+India,Historical,EV sales,Buses,BEV,2019,Vehicles,460
+India,Historical,EV stock share,Vans,EV,2019,percent,0.054999999701977
+India,Historical,EV sales share,Vans,EV,2019,percent,0.159999996423721
+India,Historical,EV sales share,Buses,EV,2019,percent,0.689999997615814
+India,Historical,EV stock share,Buses,EV,2019,percent,0.027000000700355
+India,Historical,EV stock share,Buses,EV,2020,percent,0.057000000029802
+India,Historical,EV sales share,Buses,EV,2020,percent,6
+India,Historical,EV sales share,Vans,EV,2020,percent,0.230000004172325
+India,Historical,EV stock share,Vans,EV,2020,percent,0.065999999642372
+India,Projection-APS,Electricity demand,Cars,EV,2020,GWh,0.023000000044704
+India,Projection-STEPS,EV charging points,EV,Publicly available fast,2020,charging points,25
+India,Projection-STEPS,EV charging points,EV,Publicly available slow,2020,charging points,330
+India,Historical,EV sales,Buses,BEV,2020,Vehicles,2200
+India,Historical,EV stock,Buses,BEV,2020,Vehicles,1100
+India,Projection-APS,Oil displacement Mbd,Buses,EV,2020,Milion barrels per day,0.000520000001416
+India,Projection-APS,Oil displacement Mbd,Vans,EV,2020,Milion barrels per day,0.000169999999343
+India,Projection-APS,Oil displacement Mbd,Cars,EV,2020,Milion barrels per day,0.000150000007125
+India,Projection-APS,"Oil displacement, million lge",Buses,EV,2020,"Oil displacement, million lge",30
+India,Projection-APS,"Oil displacement, million lge",Vans,EV,2020,"Oil displacement, million lge",9.80000019073486
+India,Projection-APS,"Oil displacement, million lge",Cars,EV,2020,"Oil displacement, million lge",8.5
+India,Historical,EV stock,Cars,PHEV,2020,Vehicles,50
+India,Historical,EV sales,Cars,PHEV,2020,Vehicles,43
+India,Historical,EV sales,Cars,BEV,2020,Vehicles,3100
+India,Historical,EV stock,Cars,BEV,2020,Vehicles,12000
+India,Historical,EV sales share,Cars,EV,2020,percent,0.119999997317791
+India,Historical,EV stock share,Cars,EV,2020,percent,0.028999999165535
+India,Projection-APS,EV charging points,EV,Publicly available fast,2020,charging points,25
+India,Projection-APS,EV charging points,EV,Publicly available slow,2020,charging points,330
+India,Historical,EV sales,Vans,BEV,2020,Vehicles,1000
+India,Historical,EV stock,Vans,BEV,2020,Vehicles,4700
+India,Historical,EV sales,Buses,FCEV,2020,Vehicles,49
+India,Projection-APS,EV sales,Buses,BEV,2020,Vehicles,2200
+India,Projection-APS,EV stock,Buses,BEV,2020,Vehicles,1100
+India,Projection-APS,EV sales,Buses,FCEV,2020,Vehicles,49
+India,Projection-APS,EV sales,Vans,BEV,2020,Vehicles,1000
+India,Projection-APS,EV stock,Vans,BEV,2020,Vehicles,4700
+India,Historical,Oil displacement Mbd,Buses,EV,2020,Milion barrels per day,0.000520000001416
+India,Historical,Oil displacement Mbd,Vans,EV,2020,Milion barrels per day,0.000169999999343
+India,Historical,Oil displacement Mbd,Cars,EV,2020,Milion barrels per day,0.000150000007125
+India,Historical,"Oil displacement, million lge",Buses,EV,2020,"Oil displacement, million lge",30
+India,Historical,"Oil displacement, million lge",Vans,EV,2020,"Oil displacement, million lge",9.80000019073486
+India,Historical,"Oil displacement, million lge",Cars,EV,2020,"Oil displacement, million lge",8.5
+India,Projection-STEPS,Oil displacement Mbd,Buses,EV,2020,Milion barrels per day,0.000520000001416
+India,Projection-STEPS,Oil displacement Mbd,Vans,EV,2020,Milion barrels per day,0.000169999999343
+India,Projection-STEPS,Oil displacement Mbd,Cars,EV,2020,Milion barrels per day,0.000150000007125
+India,Projection-STEPS,"Oil displacement, million lge",Buses,EV,2020,"Oil displacement, million lge",30
+India,Projection-STEPS,"Oil displacement, million lge",Vans,EV,2020,"Oil displacement, million lge",9.80000019073486
+India,Projection-STEPS,"Oil displacement, million lge",Cars,EV,2020,"Oil displacement, million lge",8.5
+India,Historical,Electricity demand,Cars,EV,2020,GWh,0.023000000044704
+India,Projection-STEPS,Electricity demand,Cars,EV,2020,GWh,0.023000000044704
+India,Historical,EV charging points,EV,Publicly available fast,2020,charging points,25
+India,Historical,EV charging points,EV,Publicly available slow,2020,charging points,330
+India,Projection-STEPS,EV sales share,Vans,EV,2020,percent,0.230000004172325
+India,Projection-STEPS,EV stock share,Vans,EV,2020,percent,0.065999999642372
+India,Projection-STEPS,EV sales share,Cars,EV,2020,percent,0.119999997317791
+India,Projection-STEPS,EV stock share,Cars,EV,2020,percent,0.028999999165535
+India,Projection-STEPS,EV sales share,Buses,EV,2020,percent,6
+India,Projection-STEPS,EV stock share,Buses,EV,2020,percent,0.057000000029802
+India,Projection-STEPS,EV sales,Buses,BEV,2020,Vehicles,2200
+India,Projection-STEPS,EV stock,Buses,BEV,2020,Vehicles,1100
+India,Projection-STEPS,EV sales,Buses,FCEV,2020,Vehicles,49
+India,Projection-STEPS,EV sales,Vans,BEV,2020,Vehicles,1000
+India,Projection-STEPS,EV stock,Vans,BEV,2020,Vehicles,4700
+India,Projection-STEPS,EV sales,Cars,BEV,2020,Vehicles,3100
+India,Projection-STEPS,EV stock,Cars,BEV,2020,Vehicles,12000
+India,Projection-STEPS,EV stock,Cars,PHEV,2020,Vehicles,50
+India,Projection-STEPS,EV sales,Cars,PHEV,2020,Vehicles,43
+India,Projection-APS,EV sales,Cars,BEV,2020,Vehicles,3100
+India,Projection-APS,EV stock,Cars,BEV,2020,Vehicles,12000
+India,Projection-APS,EV sales,Cars,PHEV,2020,Vehicles,43
+India,Projection-APS,EV stock,Cars,PHEV,2020,Vehicles,50
+India,Projection-APS,EV sales share,Buses,EV,2020,percent,6
+India,Projection-APS,EV stock share,Buses,EV,2020,percent,0.057000000029802
+India,Projection-APS,EV sales share,Vans,EV,2020,percent,0.230000004172325
+India,Projection-APS,EV stock share,Vans,EV,2020,percent,0.065999999642372
+India,Projection-APS,EV stock share,Cars,EV,2020,percent,0.028999999165535
+India,Projection-APS,EV sales share,Cars,EV,2020,percent,0.119999997317791
+India,Projection-APS,EV sales share,Cars,EV,2021,percent,0.349999994039536
+India,Projection-APS,EV stock share,Cars,EV,2021,percent,0.054000001400709
+India,Projection-APS,EV stock share,Vans,EV,2021,percent,0.086000002920628
+India,Projection-APS,EV sales share,Vans,EV,2021,percent,0.419999986886978
+India,Projection-APS,EV stock share,Buses,EV,2021,percent,0.109999999403954
+India,Projection-APS,EV sales share,Buses,EV,2021,percent,7.5
+India,Projection-APS,EV stock,Cars,PHEV,2021,Vehicles,100
+India,Projection-APS,EV sales,Cars,PHEV,2021,Vehicles,50
+India,Projection-APS,EV sales,Cars,FCEV,2021,Vehicles,1
+India,Projection-APS,EV stock,Cars,BEV,2021,Vehicles,23000
+India,Projection-APS,EV sales,Cars,BEV,2021,Vehicles,12000
+India,Projection-APS,EV stock,Cars,FCEV,2021,Vehicles,1
+India,Projection-STEPS,EV sales,Cars,PHEV,2021,Vehicles,50
+India,Projection-STEPS,EV stock,Cars,PHEV,2021,Vehicles,100
+India,Projection-STEPS,EV stock,Cars,BEV,2021,Vehicles,23000
+India,Projection-STEPS,EV sales,Cars,FCEV,2021,Vehicles,1
+India,Projection-STEPS,EV stock,Cars,FCEV,2021,Vehicles,1
+India,Projection-STEPS,EV sales,Cars,BEV,2021,Vehicles,12000
+India,Projection-STEPS,EV stock,Vans,BEV,2021,Vehicles,6400
+India,Projection-STEPS,EV sales,Vans,BEV,2021,Vehicles,1700
+India,Projection-STEPS,EV stock,Buses,BEV,2021,Vehicles,2100
+India,Projection-STEPS,EV sales,Buses,BEV,2021,Vehicles,1200
+India,Projection-STEPS,EV stock share,Buses,EV,2021,percent,0.109999999403954
+India,Projection-STEPS,EV sales share,Buses,EV,2021,percent,7.5
+India,Projection-STEPS,EV stock share,Cars,EV,2021,percent,0.054000001400709
+India,Projection-STEPS,EV sales share,Cars,EV,2021,percent,0.349999994039536
+India,Projection-STEPS,EV stock share,Vans,EV,2021,percent,0.086000002920628
+India,Projection-STEPS,EV sales share,Vans,EV,2021,percent,0.419999986886978
+India,Historical,EV charging points,EV,Publicly available fast,2021,charging points,32
+India,Historical,EV charging points,EV,Publicly available slow,2021,charging points,910
+India,Historical,Electricity demand,Cars,EV,2021,GWh,0.052999999374151
+India,Projection-STEPS,Electricity demand,Cars,EV,2021,GWh,0.052999999374151
+India,Historical,Oil displacement Mbd,Buses,EV,2021,Milion barrels per day,0.000709999992978
+India,Historical,Oil displacement Mbd,Vans,EV,2021,Milion barrels per day,0.000239999993937
+India,Historical,Oil displacement Mbd,Cars,EV,2021,Milion barrels per day,0.00034999998752
+India,Historical,"Oil displacement, million lge",Buses,EV,2021,"Oil displacement, million lge",41
+India,Historical,"Oil displacement, million lge",Vans,EV,2021,"Oil displacement, million lge",14
+India,Historical,"Oil displacement, million lge",Cars,EV,2021,"Oil displacement, million lge",20
+India,Projection-STEPS,Oil displacement Mbd,Buses,EV,2021,Milion barrels per day,0.000709999992978
+India,Projection-STEPS,Oil displacement Mbd,Vans,EV,2021,Milion barrels per day,0.000239999993937
+India,Projection-STEPS,Oil displacement Mbd,Cars,EV,2021,Milion barrels per day,0.00034999998752
+India,Projection-STEPS,"Oil displacement, million lge",Buses,EV,2021,"Oil displacement, million lge",41
+India,Projection-STEPS,"Oil displacement, million lge",Vans,EV,2021,"Oil displacement, million lge",14
+India,Projection-STEPS,"Oil displacement, million lge",Cars,EV,2021,"Oil displacement, million lge",20
+India,Projection-APS,EV stock,Vans,BEV,2021,Vehicles,6400
+India,Projection-APS,EV sales,Vans,BEV,2021,Vehicles,1700
+India,Projection-APS,EV stock,Buses,BEV,2021,Vehicles,2100
+India,Projection-APS,EV sales,Buses,BEV,2021,Vehicles,1200
+India,Historical,EV stock,Vans,BEV,2021,Vehicles,6400
+India,Historical,EV sales,Vans,BEV,2021,Vehicles,1700
+India,Projection-APS,EV charging points,EV,Publicly available fast,2021,charging points,32
+India,Projection-APS,EV charging points,EV,Publicly available slow,2021,charging points,910
+India,Historical,EV stock share,Cars,EV,2021,percent,0.054000001400709
+India,Historical,EV sales share,Cars,EV,2021,percent,0.349999994039536
+India,Historical,EV stock,Cars,BEV,2021,Vehicles,23000
+India,Historical,EV sales,Cars,BEV,2021,Vehicles,12000
+India,Historical,EV sales,Cars,PHEV,2021,Vehicles,50
+India,Historical,EV sales,Cars,FCEV,2021,Vehicles,1
+India,Historical,EV stock,Cars,FCEV,2021,Vehicles,1
+India,Historical,EV stock,Cars,PHEV,2021,Vehicles,100
+India,Projection-APS,Oil displacement Mbd,Buses,EV,2021,Milion barrels per day,0.000709999992978
+India,Projection-APS,Oil displacement Mbd,Vans,EV,2021,Milion barrels per day,0.000239999993937
+India,Projection-APS,Oil displacement Mbd,Cars,EV,2021,Milion barrels per day,0.00034999998752
+India,Projection-APS,"Oil displacement, million lge",Buses,EV,2021,"Oil displacement, million lge",41
+India,Projection-APS,"Oil displacement, million lge",Vans,EV,2021,"Oil displacement, million lge",14
+India,Projection-APS,"Oil displacement, million lge",Cars,EV,2021,"Oil displacement, million lge",20
+India,Historical,EV stock,Buses,BEV,2021,Vehicles,2100
+India,Historical,EV sales,Buses,BEV,2021,Vehicles,1200
+India,Projection-STEPS,EV charging points,EV,Publicly available fast,2021,charging points,32
+India,Projection-STEPS,EV charging points,EV,Publicly available slow,2021,charging points,910
+India,Projection-APS,Electricity demand,Cars,EV,2021,GWh,0.052999999374151
+India,Historical,EV stock share,Vans,EV,2021,percent,0.086000002920628
+India,Historical,EV sales share,Vans,EV,2021,percent,0.419999986886978
+India,Historical,EV sales share,Buses,EV,2021,percent,7.5
+India,Historical,EV stock share,Buses,EV,2021,percent,0.109999999403954
+India,Historical,EV stock share,Buses,EV,2022,percent,0.159999996423721
+India,Historical,EV sales share,Buses,EV,2022,percent,6.19999980926514
+India,Historical,EV sales share,Vans,EV,2022,percent,0.097999997437
+India,Historical,EV stock share,Vans,EV,2022,percent,0.087999999523163
+India,Projection-APS,Electricity demand,Cars,EV,2022,GWh,0.074000000953674
+India,Projection-STEPS,EV charging points,EV,Publicly available fast,2022,charging points,4100
+India,Projection-STEPS,EV charging points,EV,Publicly available slow,2022,charging points,6800
+India,Historical,EV sales,Buses,BEV,2022,Vehicles,2000
+India,Historical,EV stock,Buses,BEV,2022,Vehicles,3100
+India,Projection-APS,Oil displacement Mbd,Buses,EV,2022,Milion barrels per day,0.00109999999404
+India,Projection-APS,Oil displacement Mbd,Vans,EV,2022,Milion barrels per day,0.000260000000708
+India,Projection-APS,Oil displacement Mbd,Cars,EV,2022,Milion barrels per day,0.001300000003539
+India,Projection-APS,"Oil displacement, million lge",Buses,EV,2022,"Oil displacement, million lge",61
+India,Projection-APS,"Oil displacement, million lge",Vans,EV,2022,"Oil displacement, million lge",15
+India,Projection-APS,"Oil displacement, million lge",Cars,EV,2022,"Oil displacement, million lge",72
+India,Historical,EV stock,Cars,PHEV,2022,Vehicles,120
+India,Historical,EV stock,Cars,FCEV,2022,Vehicles,3
+India,Historical,EV sales,Cars,FCEV,2022,Vehicles,2
+India,Historical,EV sales,Cars,PHEV,2022,Vehicles,23
+India,Historical,EV sales,Cars,BEV,2022,Vehicles,48000
+India,Historical,EV stock,Cars,BEV,2022,Vehicles,72000
+India,Historical,EV sales share,Cars,EV,2022,percent,1.20000004768372
+India,Historical,EV stock share,Cars,EV,2022,percent,0.150000005960464
+India,Projection-APS,EV charging points,EV,Publicly available fast,2022,charging points,4100
+India,Projection-APS,EV charging points,EV,Publicly available slow,2022,charging points,6800
+India,Historical,EV sales,Vans,BEV,2022,Vehicles,510
+India,Historical,EV stock,Vans,BEV,2022,Vehicles,6900
+India,Historical,EV sales,Buses,FCEV,2022,Vehicles,49
+India,Projection-APS,EV sales,Buses,BEV,2022,Vehicles,2000
+India,Projection-APS,EV stock,Buses,BEV,2022,Vehicles,3100
+India,Projection-APS,EV sales,Buses,FCEV,2022,Vehicles,49
+India,Projection-APS,EV sales,Vans,BEV,2022,Vehicles,510
+India,Projection-APS,EV stock,Vans,BEV,2022,Vehicles,6900
+India,Historical,Oil displacement Mbd,Buses,EV,2022,Milion barrels per day,0.00109999999404
+India,Historical,Oil displacement Mbd,Vans,EV,2022,Milion barrels per day,0.000260000000708
+India,Historical,Oil displacement Mbd,Cars,EV,2022,Milion barrels per day,0.001300000003539
+India,Historical,"Oil displacement, million lge",Buses,EV,2022,"Oil displacement, million lge",61
+India,Historical,"Oil displacement, million lge",Vans,EV,2022,"Oil displacement, million lge",15
+India,Historical,"Oil displacement, million lge",Cars,EV,2022,"Oil displacement, million lge",72
+India,Projection-STEPS,Oil displacement Mbd,Buses,EV,2022,Milion barrels per day,0.00109999999404
+India,Projection-STEPS,Oil displacement Mbd,Vans,EV,2022,Milion barrels per day,0.000260000000708
+India,Projection-STEPS,Oil displacement Mbd,Cars,EV,2022,Milion barrels per day,0.001300000003539
+India,Projection-STEPS,"Oil displacement, million lge",Buses,EV,2022,"Oil displacement, million lge",61
+India,Projection-STEPS,"Oil displacement, million lge",Vans,EV,2022,"Oil displacement, million lge",15
+India,Projection-STEPS,"Oil displacement, million lge",Cars,EV,2022,"Oil displacement, million lge",72
+India,Historical,Electricity demand,Cars,EV,2022,GWh,0.074000000953674
+India,Projection-STEPS,Electricity demand,Cars,EV,2022,GWh,0.074000000953674
+India,Historical,EV charging points,EV,Publicly available fast,2022,charging points,4100
+India,Historical,EV charging points,EV,Publicly available slow,2022,charging points,6800
+India,Projection-STEPS,EV sales share,Vans,EV,2022,percent,0.097999997437
+India,Projection-STEPS,EV stock share,Vans,EV,2022,percent,0.087999999523163
+India,Projection-STEPS,EV sales share,Cars,EV,2022,percent,1.20000004768372
+India,Projection-STEPS,EV stock share,Cars,EV,2022,percent,0.150000005960464
+India,Projection-STEPS,EV sales share,Buses,EV,2022,percent,6.19999980926514
+India,Projection-STEPS,EV stock share,Buses,EV,2022,percent,0.159999996423721
+India,Projection-STEPS,EV sales,Buses,BEV,2022,Vehicles,2000
+India,Projection-STEPS,EV stock,Buses,BEV,2022,Vehicles,3100
+India,Projection-STEPS,EV sales,Vans,BEV,2022,Vehicles,510
+India,Projection-STEPS,EV sales,Buses,FCEV,2022,Vehicles,49
+India,Projection-STEPS,EV stock,Vans,BEV,2022,Vehicles,6900
+India,Projection-STEPS,EV sales,Cars,BEV,2022,Vehicles,48000
+India,Projection-STEPS,EV stock,Cars,FCEV,2022,Vehicles,3
+India,Projection-STEPS,EV sales,Cars,FCEV,2022,Vehicles,2
+India,Projection-STEPS,EV stock,Cars,BEV,2022,Vehicles,72000
+India,Projection-STEPS,EV stock,Cars,PHEV,2022,Vehicles,120
+India,Projection-STEPS,EV sales,Cars,PHEV,2022,Vehicles,23
+India,Projection-APS,EV stock,Cars,FCEV,2022,Vehicles,3
+India,Projection-APS,EV sales,Cars,BEV,2022,Vehicles,48000
+India,Projection-APS,EV stock,Cars,BEV,2022,Vehicles,72000
+India,Projection-APS,EV sales,Cars,FCEV,2022,Vehicles,2
+India,Projection-APS,EV sales,Cars,PHEV,2022,Vehicles,23
+India,Projection-APS,EV stock,Cars,PHEV,2022,Vehicles,120
+India,Projection-APS,EV sales share,Buses,EV,2022,percent,6.19999980926514
+India,Projection-APS,EV stock share,Buses,EV,2022,percent,0.159999996423721
+India,Projection-APS,EV sales share,Vans,EV,2022,percent,0.097999997437
+India,Projection-APS,EV stock share,Vans,EV,2022,percent,0.087999999523163
+India,Projection-APS,EV stock share,Cars,EV,2022,percent,0.150000005960464
+India,Projection-APS,EV sales share,Cars,EV,2022,percent,1.20000004768372
+India,Projection-APS,EV sales share,Cars,EV,2023,percent,2
+India,Projection-APS,EV stock share,Cars,EV,2023,percent,0.310000002384186
+India,Projection-APS,EV stock share,Vans,EV,2023,percent,0.086999997496605
+India,Projection-APS,EV sales share,Vans,EV,2023,percent,0.061999998986721
+India,Projection-APS,EV stock share,Buses,EV,2023,percent,0.439999997615814
+India,Projection-APS,EV sales share,Buses,EV,2023,percent,6.80000019073486
+India,Projection-APS,EV stock,Cars,PHEV,2023,Vehicles,390
+India,Projection-APS,EV sales,Cars,PHEV,2023,Vehicles,270
+India,Projection-APS,EV stock,Cars,BEV,2023,Vehicles,150000
+India,Projection-APS,EV sales,Cars,BEV,2023,Vehicles,82000
+India,Projection-APS,EV stock,Cars,FCEV,2023,Vehicles,3
+India,Projection-STEPS,EV sales,Cars,PHEV,2023,Vehicles,270
+India,Projection-STEPS,EV stock,Cars,PHEV,2023,Vehicles,390
+India,Projection-STEPS,EV stock,Cars,BEV,2023,Vehicles,150000
+India,Projection-STEPS,EV stock,Cars,FCEV,2023,Vehicles,3
+India,Projection-STEPS,EV sales,Cars,BEV,2023,Vehicles,82000
+India,Projection-STEPS,EV stock,Vans,BEV,2023,Vehicles,7300
+India,Projection-STEPS,EV sales,Buses,FCEV,2023,Vehicles,2
+India,Projection-STEPS,EV stock,Buses,FCEV,2023,Vehicles,100
+India,Projection-STEPS,EV sales,Vans,BEV,2023,Vehicles,350
+India,Projection-STEPS,EV stock,Buses,BEV,2023,Vehicles,8400
+India,Projection-STEPS,EV sales,Buses,BEV,2023,Vehicles,2300
+India,Projection-STEPS,EV stock share,Buses,EV,2023,percent,0.439999997615814
+India,Projection-STEPS,EV sales share,Buses,EV,2023,percent,6.80000019073486
+India,Projection-STEPS,EV stock share,Cars,EV,2023,percent,0.310000002384186
+India,Projection-STEPS,EV sales share,Cars,EV,2023,percent,2
+India,Projection-STEPS,EV stock share,Vans,EV,2023,percent,0.086999997496605
+India,Projection-STEPS,EV sales share,Vans,EV,2023,percent,0.061999998986721
+India,Historical,EV charging points,EV,Publicly available fast,2023,charging points,4100
+India,Historical,EV charging points,EV,Publicly available slow,2023,charging points,6800
+India,Historical,Electricity demand,Buses,EV,2023,GWh,790
+India,Historical,Electricity demand,Vans,EV,2023,GWh,41
+India,Historical,Electricity demand,Cars,EV,2023,GWh,410
+India,Projection-STEPS,Electricity demand,Buses,EV,2023,GWh,790
+India,Projection-STEPS,Electricity demand,Vans,EV,2023,GWh,41
+India,Projection-STEPS,Electricity demand,Cars,EV,2023,GWh,410
+India,Historical,Oil displacement Mbd,Buses,EV,2023,Milion barrels per day,0.003299999982119
+India,Historical,Oil displacement Mbd,Vans,EV,2023,Milion barrels per day,0.000230000005104
+India,Historical,Oil displacement Mbd,Cars,EV,2023,Milion barrels per day,0.002600000007078
+India,Historical,"Oil displacement, million lge",Buses,EV,2023,"Oil displacement, million lge",190
+India,Historical,"Oil displacement, million lge",Vans,EV,2023,"Oil displacement, million lge",13
+India,Historical,"Oil displacement, million lge",Cars,EV,2023,"Oil displacement, million lge",150
+India,Projection-STEPS,Oil displacement Mbd,Buses,EV,2023,Milion barrels per day,0.003299999982119
+India,Projection-STEPS,Oil displacement Mbd,Vans,EV,2023,Milion barrels per day,0.000230000005104
+India,Projection-STEPS,Oil displacement Mbd,Cars,EV,2023,Milion barrels per day,0.002600000007078
+India,Projection-STEPS,"Oil displacement, million lge",Buses,EV,2023,"Oil displacement, million lge",190
+India,Projection-STEPS,"Oil displacement, million lge",Vans,EV,2023,"Oil displacement, million lge",13
+India,Projection-STEPS,"Oil displacement, million lge",Cars,EV,2023,"Oil displacement, million lge",150
+India,Projection-APS,EV stock,Vans,BEV,2023,Vehicles,7300
+India,Projection-APS,EV sales,Vans,BEV,2023,Vehicles,350
+India,Projection-APS,EV sales,Buses,FCEV,2023,Vehicles,2
+India,Projection-APS,EV stock,Buses,FCEV,2023,Vehicles,100
+India,Projection-APS,EV stock,Buses,BEV,2023,Vehicles,8400
+India,Projection-APS,EV sales,Buses,BEV,2023,Vehicles,2300
+India,Historical,EV sales,Buses,FCEV,2023,Vehicles,2
+India,Historical,EV stock,Buses,FCEV,2023,Vehicles,100
+India,Historical,EV stock,Vans,BEV,2023,Vehicles,7300
+India,Historical,EV sales,Vans,BEV,2023,Vehicles,350
+India,Projection-APS,EV charging points,EV,Publicly available fast,2023,charging points,4100
+India,Projection-APS,EV charging points,EV,Publicly available slow,2023,charging points,6800
+India,Historical,EV stock share,Cars,EV,2023,percent,0.310000002384186
+India,Historical,EV sales share,Cars,EV,2023,percent,2
+India,Historical,EV stock,Cars,BEV,2023,Vehicles,150000
+India,Historical,EV sales,Cars,BEV,2023,Vehicles,82000
+India,Historical,EV sales,Cars,PHEV,2023,Vehicles,270
+India,Historical,EV stock,Cars,FCEV,2023,Vehicles,3
+India,Historical,EV stock,Cars,PHEV,2023,Vehicles,390
+India,Projection-APS,Oil displacement Mbd,Buses,EV,2023,Milion barrels per day,0.003299999982119
+India,Projection-APS,Oil displacement Mbd,Vans,EV,2023,Milion barrels per day,0.000250000011874
+India,Projection-APS,Oil displacement Mbd,Cars,EV,2023,Milion barrels per day,0.002600000007078
+India,Projection-APS,"Oil displacement, million lge",Buses,EV,2023,"Oil displacement, million lge",190
+India,Projection-APS,"Oil displacement, million lge",Vans,EV,2023,"Oil displacement, million lge",14
+India,Projection-APS,"Oil displacement, million lge",Cars,EV,2023,"Oil displacement, million lge",150
+India,Historical,EV stock,Buses,BEV,2023,Vehicles,8400
+India,Historical,EV sales,Buses,BEV,2023,Vehicles,2300
+India,Projection-STEPS,EV charging points,EV,Publicly available fast,2023,charging points,4100
+India,Projection-STEPS,EV charging points,EV,Publicly available slow,2023,charging points,6800
+India,Projection-APS,Electricity demand,Buses,EV,2023,GWh,790
+India,Projection-APS,Electricity demand,Vans,EV,2023,GWh,44
+India,Projection-APS,Electricity demand,Cars,EV,2023,GWh,410
+India,Historical,EV stock share,Vans,EV,2023,percent,0.086999997496605
+India,Historical,EV sales share,Vans,EV,2023,percent,0.061999998986721
+India,Historical,EV sales share,Buses,EV,2023,percent,6.80000019073486
+India,Historical,EV stock share,Buses,EV,2023,percent,0.439999997615814
+India,Projection-APS,EV stock,Buses,FCEV,2025,Vehicles,940
+India,Projection-APS,EV stock,Buses,PHEV,2025,Vehicles,18
+India,Projection-APS,EV stock,Trucks,BEV,2025,Vehicles,1900
+India,Projection-APS,EV stock,Trucks,FCEV,2025,Vehicles,170
+India,Projection-APS,EV stock,Trucks,PHEV,2025,Vehicles,870
+India,Projection-APS,EV stock,Vans,BEV,2025,Vehicles,26000
+India,Projection-APS,EV stock,Vans,FCEV,2025,Vehicles,110
+India,Projection-APS,EV stock,Vans,PHEV,2025,Vehicles,1700
+India,Projection-APS,EV stock,Cars,BEV,2025,Vehicles,670000
+India,Projection-APS,EV stock,Cars,FCEV,2025,Vehicles,44
+India,Projection-APS,EV stock,Cars,PHEV,2025,Vehicles,10000
+India,Projection-APS,Electricity demand,Buses,EV,2025,GWh,1900
+India,Projection-APS,Electricity demand,Trucks,EV,2025,GWh,120
+India,Projection-APS,Electricity demand,Vans,EV,2025,GWh,180
+India,Projection-APS,Electricity demand,Cars,EV,2025,GWh,1800
+India,Projection-APS,Oil displacement Mbd,Buses,EV,2025,Milion barrels per day,0.008100000210106
+India,Projection-APS,Oil displacement Mbd,Trucks,EV,2025,Milion barrels per day,0.000569999974687
+India,Projection-APS,Oil displacement Mbd,Vans,EV,2025,Milion barrels per day,0.000959999975748
+India,Projection-APS,Oil displacement Mbd,Cars,EV,2025,Milion barrels per day,0.010999999940395
+India,Projection-APS,"Oil displacement, million lge",Buses,EV,2025,"Oil displacement, million lge",460
+India,Projection-APS,"Oil displacement, million lge",Trucks,EV,2025,"Oil displacement, million lge",33
+India,Projection-APS,"Oil displacement, million lge",Vans,EV,2025,"Oil displacement, million lge",55
+India,Projection-APS,"Oil displacement, million lge",Cars,EV,2025,"Oil displacement, million lge",660
+India,Projection-STEPS,EV sales,Buses,BEV,2025,Vehicles,14000
+India,Projection-STEPS,EV sales,Buses,FCEV,2025,Vehicles,430
+India,Projection-STEPS,EV sales,Buses,PHEV,2025,Vehicles,26
+India,Projection-STEPS,EV sales,Trucks,BEV,2025,Vehicles,730
+India,Projection-STEPS,EV sales,Trucks,FCEV,2025,Vehicles,6.90000009536743
+India,Projection-STEPS,EV sales,Trucks,PHEV,2025,Vehicles,19
+India,Projection-STEPS,EV sales,Vans,BEV,2025,Vehicles,11000
+India,Projection-STEPS,EV sales,Vans,FCEV,2025,Vehicles,38
+India,Projection-STEPS,EV sales,Vans,PHEV,2025,Vehicles,570
+India,Projection-STEPS,EV sales,Cars,BEV,2025,Vehicles,320000
+India,Projection-STEPS,EV sales,Cars,PHEV,2025,Vehicles,4200
+India,Projection-STEPS,EV stock,Buses,BEV,2025,Vehicles,44000
+India,Projection-STEPS,EV stock,Buses,FCEV,2025,Vehicles,810
+India,Projection-STEPS,EV stock,Buses,PHEV,2025,Vehicles,43
+India,Projection-STEPS,EV stock,Trucks,BEV,2025,Vehicles,1300
+India,Projection-STEPS,EV stock,Trucks,FCEV,2025,Vehicles,7.5
+India,Projection-STEPS,EV stock,Trucks,PHEV,2025,Vehicles,21
+India,Projection-STEPS,EV stock,Vans,BEV,2025,Vehicles,21000
+India,Projection-STEPS,EV stock,Vans,FCEV,2025,Vehicles,91
+India,Projection-STEPS,EV stock,Vans,PHEV,2025,Vehicles,740
+India,Projection-STEPS,EV stock,Cars,BEV,2025,Vehicles,590000
+India,Projection-STEPS,EV stock,Cars,PHEV,2025,Vehicles,4200
+India,Projection-STEPS,Oil displacement Mbd,Buses,EV,2025,Milion barrels per day,0.007300000172108
+India,Projection-STEPS,Oil displacement Mbd,Trucks,EV,2025,Milion barrels per day,0.000339999998687
+India,Projection-STEPS,Oil displacement Mbd,Vans,EV,2025,Milion barrels per day,0.000809999997728
+India,Projection-STEPS,Oil displacement Mbd,Cars,EV,2025,Milion barrels per day,0.009999999776483
+India,Projection-STEPS,"Oil displacement, million lge",Buses,EV,2025,"Oil displacement, million lge",420
+India,Projection-STEPS,"Oil displacement, million lge",Trucks,EV,2025,"Oil displacement, million lge",19
+India,Projection-STEPS,"Oil displacement, million lge",Vans,EV,2025,"Oil displacement, million lge",47
+India,Projection-STEPS,"Oil displacement, million lge",Cars,EV,2025,"Oil displacement, million lge",580
+India,Projection-STEPS,Electricity demand,Buses,EV,2025,GWh,1700
+India,Projection-STEPS,Electricity demand,Trucks,EV,2025,GWh,69
+India,Projection-STEPS,Electricity demand,Vans,EV,2025,GWh,150
+India,Projection-STEPS,Electricity demand,Cars,EV,2025,GWh,1600
+India,Projection-STEPS,EV sales share,Vans,EV,2025,percent,3
+India,Projection-STEPS,EV sales share,Trucks,EV,2025,percent,0.180000007152557
+India,Projection-STEPS,EV stock share,Vans,EV,2025,percent,0.259999990463257
+India,Projection-STEPS,EV sales share,Cars,EV,2025,percent,7
+India,Projection-STEPS,EV stock share,Cars,EV,2025,percent,1
+India,Projection-STEPS,EV stock share,Trucks,EV,2025,percent,0.025000000372529
+India,Projection-STEPS,EV sales share,Buses,EV,2025,percent,10
+India,Projection-STEPS,EV stock share,Buses,EV,2025,percent,2
+India,Projection-APS,EV sales,Buses,BEV,2025,Vehicles,19000
+India,Projection-APS,EV sales,Buses,FCEV,2025,Vehicles,560
+India,Projection-APS,EV sales,Trucks,BEV,2025,Vehicles,1400
+India,Projection-APS,EV sales,Trucks,FCEV,2025,Vehicles,170
+India,Projection-APS,EV sales,Trucks,PHEV,2025,Vehicles,870
+India,Projection-APS,EV sales,Vans,BEV,2025,Vehicles,16000
+India,Projection-APS,EV sales,Vans,FCEV,2025,Vehicles,53
+India,Projection-APS,EV sales,Vans,PHEV,2025,Vehicles,1600
+India,Projection-APS,EV sales,Cars,BEV,2025,Vehicles,390000
+India,Projection-APS,EV sales,Cars,FCEV,2025,Vehicles,44
+India,Projection-APS,EV sales,Cars,PHEV,2025,Vehicles,9600
+India,Projection-APS,EV stock,Buses,BEV,2025,Vehicles,48000
+India,Projection-APS,EV charging points,EV,Publicly available fast,2025,charging points,5400
+India,Projection-APS,EV charging points,EV,Publicly available slow,2025,charging points,61000
+India,Projection-APS,EV sales share,Buses,EV,2025,percent,13
+India,Projection-APS,EV stock share,Buses,EV,2025,percent,2
+India,Projection-APS,EV sales share,Trucks,EV,2025,percent,0.610000014305115
+India,Projection-APS,EV stock share,Trucks,EV,2025,percent,0.054000001400709
+India,Projection-APS,EV sales share,Vans,EV,2025,percent,5
+India,Projection-APS,EV stock share,Vans,EV,2025,percent,0.330000013113022
+India,Projection-APS,EV stock share,Cars,EV,2025,percent,1
+India,Projection-APS,EV sales share,Cars,EV,2025,percent,9
+India,Projection-STEPS,EV charging points,EV,Publicly available fast,2025,charging points,4500
+India,Projection-STEPS,EV charging points,EV,Publicly available slow,2025,charging points,50000
+India,Projection-STEPS,EV charging points,EV,Publicly available fast,2030,charging points,40000
+India,Projection-STEPS,EV charging points,EV,Publicly available slow,2030,charging points,270000
+India,Projection-APS,EV sales share,Cars,EV,2030,percent,32
+India,Projection-APS,EV stock share,Cars,EV,2030,percent,9
+India,Projection-APS,EV stock share,Vans,EV,2030,percent,5
+India,Projection-APS,EV sales share,Vans,EV,2030,percent,31
+India,Projection-APS,EV stock share,Trucks,EV,2030,percent,0.579999983310699
+India,Projection-APS,EV sales share,Trucks,EV,2030,percent,2
+India,Projection-APS,EV stock share,Buses,EV,2030,percent,11
+India,Projection-APS,EV sales share,Buses,EV,2030,percent,34
+India,Projection-APS,EV charging points,EV,Publicly available fast,2030,charging points,77000
+India,Projection-APS,EV charging points,EV,Publicly available slow,2030,charging points,530000
+India,Projection-STEPS,EV stock share,Buses,EV,2030,percent,10
+India,Projection-STEPS,EV sales share,Buses,EV,2030,percent,34
+India,Projection-STEPS,EV stock share,Trucks,EV,2030,percent,0.400000005960465
+India,Projection-STEPS,EV stock share,Cars,EV,2030,percent,5
+India,Projection-STEPS,EV sales share,Cars,EV,2030,percent,18
+India,Projection-STEPS,EV stock share,Vans,EV,2030,percent,2
+India,Projection-STEPS,EV sales share,Trucks,EV,2030,percent,2
+India,Projection-STEPS,EV sales share,Vans,EV,2030,percent,9
+India,Projection-STEPS,Electricity demand,Buses,EV,2030,GWh,8700
+India,Projection-STEPS,Electricity demand,Trucks,EV,2030,GWh,1000
+India,Projection-STEPS,Electricity demand,Vans,EV,2030,GWh,1300
+India,Projection-STEPS,Electricity demand,Cars,EV,2030,GWh,12000
+India,Projection-STEPS,Oil displacement Mbd,Buses,EV,2030,Milion barrels per day,0.037999998778105
+India,Projection-STEPS,Oil displacement Mbd,Trucks,EV,2030,Milion barrels per day,0.004499999806285
+India,Projection-STEPS,Oil displacement Mbd,Vans,EV,2030,Milion barrels per day,0.006599999964237
+India,Projection-STEPS,Oil displacement Mbd,Cars,EV,2030,Milion barrels per day,0.064999997615814
+India,Projection-STEPS,"Oil displacement, million lge",Buses,EV,2030,"Oil displacement, million lge",2200
+India,Projection-STEPS,"Oil displacement, million lge",Trucks,EV,2030,"Oil displacement, million lge",260
+India,Projection-STEPS,"Oil displacement, million lge",Vans,EV,2030,"Oil displacement, million lge",380
+India,Projection-STEPS,"Oil displacement, million lge",Cars,EV,2030,"Oil displacement, million lge",3800
+India,Projection-STEPS,EV sales,Buses,BEV,2030,Vehicles,59000
+India,Projection-STEPS,EV sales,Buses,FCEV,2030,Vehicles,2200
+India,Projection-STEPS,EV sales,Buses,PHEV,2030,Vehicles,70
+India,Projection-STEPS,EV sales,Trucks,BEV,2030,Vehicles,5000
+India,Projection-STEPS,EV sales,Trucks,FCEV,2030,Vehicles,1200
+India,Projection-STEPS,EV sales,Trucks,PHEV,2030,Vehicles,4200
+India,Projection-STEPS,EV sales,Vans,BEV,2030,Vehicles,50000
+India,Projection-STEPS,EV sales,Vans,FCEV,2030,Vehicles,300
+India,Projection-STEPS,EV sales,Vans,PHEV,2030,Vehicles,2600
+India,Projection-STEPS,EV sales,Cars,BEV,2030,Vehicles,1000000
+India,Projection-STEPS,EV sales,Cars,PHEV,2030,Vehicles,6500
+India,Projection-STEPS,EV stock,Buses,BEV,2030,Vehicles,240000
+India,Projection-STEPS,EV stock,Buses,FCEV,2030,Vehicles,7700
+India,Projection-STEPS,EV stock,Buses,PHEV,2030,Vehicles,310
+India,Projection-STEPS,EV stock,Trucks,BEV,2030,Vehicles,13000
+India,Projection-STEPS,EV stock,Trucks,FCEV,2030,Vehicles,2500
+India,Projection-STEPS,EV stock,Trucks,PHEV,2030,Vehicles,11000
+India,Projection-STEPS,EV stock,Vans,BEV,2030,Vehicles,180000
+India,Projection-STEPS,EV stock,Vans,FCEV,2030,Vehicles,890
+India,Projection-STEPS,EV stock,Vans,PHEV,2030,Vehicles,9100
+India,Projection-STEPS,EV stock,Cars,BEV,2030,Vehicles,4000000
+India,Projection-STEPS,EV stock,Cars,PHEV,2030,Vehicles,32000
+India,Projection-APS,Oil displacement Mbd,Buses,EV,2030,Milion barrels per day,0.037999998778105
+India,Projection-APS,Oil displacement Mbd,Trucks,EV,2030,Milion barrels per day,0.005700000096112
+India,Projection-APS,Oil displacement Mbd,Vans,EV,2030,Milion barrels per day,0.014000000432134
+India,Projection-APS,Oil displacement Mbd,Cars,EV,2030,Milion barrels per day,0.100000001490116
+India,Projection-APS,"Oil displacement, million lge",Buses,EV,2030,"Oil displacement, million lge",2200
+India,Projection-APS,"Oil displacement, million lge",Trucks,EV,2030,"Oil displacement, million lge",330
+India,Projection-APS,"Oil displacement, million lge",Vans,EV,2030,"Oil displacement, million lge",820
+India,Projection-APS,"Oil displacement, million lge",Cars,EV,2030,"Oil displacement, million lge",5800
+India,Projection-APS,Electricity demand,Buses,EV,2030,GWh,9200
+India,Projection-APS,Electricity demand,Trucks,EV,2030,GWh,1400
+India,Projection-APS,Electricity demand,Vans,EV,2030,GWh,3100
+India,Projection-APS,Electricity demand,Cars,EV,2030,GWh,18000
+India,Projection-APS,EV sales,Buses,BEV,2030,Vehicles,59000
+India,Projection-APS,EV sales,Buses,FCEV,2030,Vehicles,2200
+India,Projection-APS,EV sales,Buses,PHEV,2030,Vehicles,11
+India,Projection-APS,EV sales,Trucks,BEV,2030,Vehicles,7600
+India,Projection-APS,EV sales,Trucks,FCEV,2030,Vehicles,1100
+India,Projection-APS,EV sales,Trucks,PHEV,2030,Vehicles,3300
+India,Projection-APS,EV sales,Vans,BEV,2030,Vehicles,150000
+India,Projection-APS,EV sales,Vans,FCEV,2030,Vehicles,870
+India,Projection-APS,EV sales,Vans,PHEV,2030,Vehicles,12000
+India,Projection-APS,EV sales,Cars,BEV,2030,Vehicles,1800000
+India,Projection-APS,EV sales,Cars,FCEV,2030,Vehicles,770
+India,Projection-APS,EV sales,Cars,PHEV,2030,Vehicles,17000
+India,Projection-APS,EV stock,Buses,BEV,2030,Vehicles,250000
+India,Projection-APS,EV stock,Buses,FCEV,2030,Vehicles,8000
+India,Projection-APS,EV stock,Buses,PHEV,2030,Vehicles,37
+India,Projection-APS,EV stock,Trucks,BEV,2030,Vehicles,24000
+India,Projection-APS,EV stock,Trucks,FCEV,2030,Vehicles,3500
+India,Projection-APS,EV stock,Trucks,PHEV,2030,Vehicles,11000
+India,Projection-APS,EV stock,Vans,BEV,2030,Vehicles,420000
+India,Projection-APS,EV stock,Vans,FCEV,2030,Vehicles,2100
+India,Projection-APS,EV stock,Vans,PHEV,2030,Vehicles,35000
+India,Projection-APS,EV stock,Cars,BEV,2030,Vehicles,6400000
+India,Projection-APS,EV stock,Cars,FCEV,2030,Vehicles,1800
+India,Projection-APS,EV stock,Cars,PHEV,2030,Vehicles,97000
+India,Projection-APS,EV sales,Buses,BEV,2035,Vehicles,100000
+India,Projection-APS,EV sales,Buses,FCEV,2035,Vehicles,4900
+India,Projection-APS,EV sales,Buses,PHEV,2035,Vehicles,400
+India,Projection-APS,EV sales,Trucks,BEV,2035,Vehicles,27000
+India,Projection-APS,EV sales,Trucks,FCEV,2035,Vehicles,6800
+India,Projection-APS,EV sales,Trucks,PHEV,2035,Vehicles,5600
+India,Projection-APS,EV sales,Vans,BEV,2035,Vehicles,550000
+India,Projection-APS,EV sales,Vans,FCEV,2035,Vehicles,6300
+India,Projection-APS,EV sales,Vans,PHEV,2035,Vehicles,27000
+India,Projection-APS,EV sales,Cars,BEV,2035,Vehicles,4000000
+India,Projection-APS,EV sales,Cars,FCEV,2035,Vehicles,6800
+India,Projection-APS,EV sales,Cars,PHEV,2035,Vehicles,3400
+India,Projection-APS,EV stock,Buses,BEV,2035,Vehicles,680000
+India,Projection-APS,EV stock,Buses,FCEV,2035,Vehicles,27000
+India,Projection-APS,EV stock,Buses,PHEV,2035,Vehicles,860
+India,Projection-APS,EV stock,Trucks,BEV,2035,Vehicles,110000
+India,Projection-APS,EV stock,Trucks,FCEV,2035,Vehicles,27000
+India,Projection-APS,EV stock,Trucks,PHEV,2035,Vehicles,35000
+India,Projection-APS,EV stock,Vans,BEV,2035,Vehicles,2300000
+India,Projection-APS,EV stock,Vans,FCEV,2035,Vehicles,20000
+India,Projection-APS,EV stock,Vans,PHEV,2035,Vehicles,150000
+India,Projection-APS,EV stock,Cars,BEV,2035,Vehicles,22000000
+India,Projection-APS,EV stock,Cars,FCEV,2035,Vehicles,20000
+India,Projection-APS,EV stock,Cars,PHEV,2035,Vehicles,140000
+India,Projection-APS,Electricity demand,Buses,EV,2035,GWh,23000
+India,Projection-APS,Electricity demand,Trucks,EV,2035,GWh,5200
+India,Projection-APS,Electricity demand,Vans,EV,2035,GWh,16000
+India,Projection-APS,Electricity demand,Cars,EV,2035,GWh,56000
+India,Projection-APS,Oil displacement Mbd,Buses,EV,2035,Milion barrels per day,0.098999999463558
+India,Projection-APS,Oil displacement Mbd,Trucks,EV,2035,Milion barrels per day,0.019999999552965
+India,Projection-APS,Oil displacement Mbd,Vans,EV,2035,Milion barrels per day,0.070000000298023
+India,Projection-APS,Oil displacement Mbd,Cars,EV,2035,Milion barrels per day,0.300000011920929
+India,Projection-APS,"Oil displacement, million lge",Buses,EV,2035,"Oil displacement, million lge",5700
+India,Projection-APS,"Oil displacement, million lge",Trucks,EV,2035,"Oil displacement, million lge",1200
+India,Projection-APS,"Oil displacement, million lge",Vans,EV,2035,"Oil displacement, million lge",4000
+India,Projection-APS,"Oil displacement, million lge",Cars,EV,2035,"Oil displacement, million lge",17000
+India,Projection-STEPS,EV sales,Buses,BEV,2035,Vehicles,100000
+India,Projection-STEPS,EV sales,Buses,FCEV,2035,Vehicles,4900
+India,Projection-STEPS,EV sales,Buses,PHEV,2035,Vehicles,170
+India,Projection-STEPS,EV sales,Trucks,BEV,2035,Vehicles,8500
+India,Projection-STEPS,EV sales,Trucks,FCEV,2035,Vehicles,5300
+India,Projection-STEPS,EV sales,Trucks,PHEV,2035,Vehicles,6800
+India,Projection-STEPS,EV sales,Vans,BEV,2035,Vehicles,140000
+India,Projection-STEPS,EV sales,Vans,FCEV,2035,Vehicles,1500
+India,Projection-STEPS,EV sales,Vans,PHEV,2035,Vehicles,7600
+India,Projection-STEPS,EV sales,Cars,BEV,2035,Vehicles,1700000
+India,Projection-STEPS,EV sales,Cars,PHEV,2035,Vehicles,9000
+India,Projection-STEPS,EV stock,Buses,BEV,2035,Vehicles,670000
+India,Projection-STEPS,EV stock,Buses,FCEV,2035,Vehicles,27000
+India,Projection-STEPS,EV stock,Buses,PHEV,2035,Vehicles,900
+India,Projection-STEPS,EV stock,Trucks,BEV,2035,Vehicles,49000
+India,Projection-STEPS,EV stock,Trucks,FCEV,2035,Vehicles,23000
+India,Projection-STEPS,EV stock,Trucks,PHEV,2035,Vehicles,39000
+India,Projection-STEPS,EV stock,Vans,BEV,2035,Vehicles,690000
+India,Projection-STEPS,EV stock,Vans,FCEV,2035,Vehicles,5300
+India,Projection-STEPS,EV stock,Vans,PHEV,2035,Vehicles,36000
+India,Projection-STEPS,EV stock,Cars,BEV,2035,Vehicles,11000000
+India,Projection-STEPS,EV stock,Cars,PHEV,2035,Vehicles,72000
+India,Projection-STEPS,Oil displacement Mbd,Buses,EV,2035,Milion barrels per day,0.097000002861023
+India,Projection-STEPS,Oil displacement Mbd,Trucks,EV,2035,Milion barrels per day,0.014000000432134
+India,Projection-STEPS,Oil displacement Mbd,Vans,EV,2035,Milion barrels per day,0.021999999880791
+India,Projection-STEPS,Oil displacement Mbd,Cars,EV,2035,Milion barrels per day,0.159999996423721
+India,Projection-STEPS,"Oil displacement, million lge",Buses,EV,2035,"Oil displacement, million lge",5600
+India,Projection-STEPS,"Oil displacement, million lge",Trucks,EV,2035,"Oil displacement, million lge",800
+India,Projection-STEPS,"Oil displacement, million lge",Vans,EV,2035,"Oil displacement, million lge",1300
+India,Projection-STEPS,"Oil displacement, million lge",Cars,EV,2035,"Oil displacement, million lge",9300
+India,Projection-STEPS,Electricity demand,Buses,EV,2035,GWh,21000
+India,Projection-STEPS,Electricity demand,Trucks,EV,2035,GWh,3400
+India,Projection-STEPS,Electricity demand,Vans,EV,2035,GWh,4800
+India,Projection-STEPS,Electricity demand,Cars,EV,2035,GWh,31000
+India,Projection-STEPS,EV sales share,Vans,EV,2035,percent,22
+India,Projection-STEPS,EV sales share,Trucks,EV,2035,percent,3
+India,Projection-STEPS,EV stock share,Vans,EV,2035,percent,7
+India,Projection-STEPS,EV sales share,Cars,EV,2035,percent,25
+India,Projection-STEPS,EV stock share,Cars,EV,2035,percent,12
+India,Projection-STEPS,EV stock share,Trucks,EV,2035,percent,1
+India,Projection-STEPS,EV sales share,Buses,EV,2035,percent,60
+India,Projection-STEPS,EV stock share,Buses,EV,2035,percent,25
+India,Projection-APS,EV charging points,EV,Publicly available fast,2035,charging points,250000
+India,Projection-APS,EV charging points,EV,Publicly available slow,2035,charging points,1700000
+India,Projection-APS,EV sales share,Buses,EV,2035,percent,60
+India,Projection-APS,EV stock share,Buses,EV,2035,percent,25
+India,Projection-APS,EV sales share,Trucks,EV,2035,percent,6
+India,Projection-APS,EV stock share,Trucks,EV,2035,percent,2
+India,Projection-APS,EV sales share,Vans,EV,2035,percent,80
+India,Projection-APS,EV stock share,Vans,EV,2035,percent,23
+India,Projection-APS,EV stock share,Cars,EV,2035,percent,23
+India,Projection-APS,EV sales share,Cars,EV,2035,percent,59
+India,Projection-STEPS,EV charging points,EV,Publicly available fast,2035,charging points,88000
+India,Projection-STEPS,EV charging points,EV,Publicly available slow,2035,charging points,600000
